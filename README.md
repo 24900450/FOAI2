@@ -107,5 +107,8 @@ F H
 ```text
 ['0', '1', '2', '3', '4']
 ```
+## Output
+<img width="1672" height="707" alt="image" src="https://github.com/user-attachments/assets/1cce2f80-33e1-41ae-acc8-a69c859b27e9" />
+
 ## Result
 Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
