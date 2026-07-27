@@ -102,3 +102,10 @@ C G
 D F
 G F
 F H
+```
+## Sample Output
+```text
+['0', '1', '2', '3', '4']
+```
+## Result
+Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
