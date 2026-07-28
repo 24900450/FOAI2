@@ -102,10 +102,11 @@ C G
 D F
 G F
 F H
+A
 ```
 ## Sample Output
 ```text
-['0', '1', '2', '3', '4']
+['A', 'B', 'E', 'D', 'C' ,'G' , 'F' , 'H']
 ```
 ## Output
 <img width="1672" height="707" alt="image" src="https://github.com/user-attachments/assets/1cce2f80-33e1-41ae-acc8-a69c859b27e9" />
